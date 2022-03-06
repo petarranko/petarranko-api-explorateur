@@ -18,7 +18,31 @@
         "name":"Quel explorateur à dirigeait la première expédition ayant traversée l'Australie du nord au sud ?",
         "type": "Robert O'Hara Burke",
         "flag":"https://upload.wikimedia.org/wikipedia/commons/8/8c/William_Strutt%2C_Portrait_of_Robert_O%27Hara_Burke%2C_1860.jpg"
+    },
+{
+        "name":"Quel explorateur à dirigeait l'expédition pendant laquelle à été découverte le lac Tanganyika",
+        "type": "Richard Francis Burton",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/a/ad/RichardFrancisBurton.jpeg"
+    },
+    {
+        "name": "Quel explorateur était à la tête du l'expédition visant à réaliser le premier tour du monde français ?",
+        "type" : "Louis-Antoine de Bougainville",
+        "flag" : "https://upload.wikimedia.org/wikipedia/commons/8/80/Louis-Antoine_de_Bougainville.jpg"
+    },
+    {
+        "name": "Quel explorateur à 'acquis' la Louisiane pour la France ?",
+        "type": "René-Robert Cavelier de La Salle",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Cavelier_de_la_salle.jpg"
+    },
+    {
+        "name": "Quel explorateur est le premier français à avoir franchis le cercle polaire artique en 1902 ?",
+        "type" : "Jean-Baptiste Charcot",
+        "flag" : "https://upload.wikimedia.org/wikipedia/commons/2/2d/Jean-Baptiste_Charcot.jpg"
+    },
+    {
+        "name" : "Qui fut la première femme occidentale à entrer à Lhassa, capitale du Tibet ? ",
+        "type" : "Alexandra David-Néel",
+        "flag" : "https://upload.wikimedia.org/wikipedia/commons/8/8c/Alexandra_David-Neels.jpg"
     }
-
 
 ]
