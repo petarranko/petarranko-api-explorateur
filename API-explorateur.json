@@ -43,6 +43,103 @@
         "name" : "Qui fut la première femme occidentale à entrer à Lhassa, capitale du Tibet ? ",
         "type" : "Alexandra David-Néel",
         "flag" : "https://upload.wikimedia.org/wikipedia/commons/8/8c/Alexandra_David-Neels.jpg"
-    }
+    },
 
+{
+        "name" : "Leque de ces explorateurs à donné son nom au courant qui prend naissance près de l'antartique et qui longe les côte du Chili ?",
+        "type" : "Alexander von Humboldt",
+        "flag" : "https://upload.wikimedia.org/wikipedia/commons/f/f3/AvHumboldt.jpg"
+    },
+    {
+        "name": "Quel explorateur est le premier européen à voir le lac Tchad ?",
+        "type" : "Hugh Clapperton",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Hugh_Clapperton_portrait.jpg"
+    },
+    {
+        "name" :"Quel explorateur est le premier européen à atteindre les îles hawaïennes ?",
+        "type" : "James Cook",
+        "flag" : "https://upload.wikimedia.org/wikipedia/commons/7/76/Captainjamescookportrait.jpg"
+    },
+    {
+        "name" : "Quel explorateur à donné son nom au fleuve qui longe l'ouest de Manhattan ?",
+        "type" : "Henry Hudson",
+        "flag" :"https://upload.wikimedia.org/wikipedia/commons/d/d2/HenryHudson.jpg"
+    },
+    {
+        "name" : "Quel explorateur est resté dans l'histoire comme étant celui ayant fondé la première colonie européenne au Groenland ?",
+        "type" : "Erik le Rouge",
+        "flag" : "https://upload.wikimedia.org/wikipedia/commons/e/ec/Erik_le_rouge.jpg"
+    },
+    {
+        "name": "Quel explorateur est l'inventeur du scaphandre autonome moderne ?",
+        "type" : " Jacques-Yves Cousteau",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/10/Cousteau1972_%28cropped%29.jpg"
+    },
+    {
+        "name":"Quel explorateur est devenue ermite au Sahara ? ",
+        "type": "Charles de Foucauld",
+        "flag":"https://upload.wikimedia.org/wikipedia/commons/2/2a/Charles_de_Foucauld_%281858-1916%29_-_Last_living_photo.jpg"
+    },
+    {
+        "name":"Qui est le premier scientifique à avoir descendu le fleuve Amazone ?",
+        "type": "Charles Marie de La Condamine",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Charles_Marie_de_La_Condamine.jpg"
+    },
+    {
+        "name":"Quel exporateur a dirigé une expédition visant à explorer l'océan Pacifique et pendant laquelle les deux bateaux de l'expédition : La Bousole et l'Astrolabe s'échouèrent ?",
+        "type": "Jean-François de La Pérouse",
+        "flag" : "https://upload.wikimedia.org/wikipedia/commons/5/5a/Jean-Fran%C3%A7ois_de_Galaup_de_La_P%C3%A9rouse_jeune.jpg"
+    },
+    {
+        "name": "Quel explorateur fut le premier Européen à découvrir la vallée du Zambèze ?",
+        "type": "David Livingstone",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/2/21/David_Livingstone_-1.jpg"
+    },
+    {
+        "name": "Quel explorateur parti à la recherche de David Livingstone, porté disparut pendant sa recherche des sources du Nil ?",
+        "type":"Henry Morton Stanley",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/5/56/Henry_Morton_Stanley_Reutlinger_BNF_Gallica.jpg"
+    },
+    {
+        "name": "Lequel de ces explorateurs à obtenu un prix nobel de la paix pour son travail d'aide des victimes déplacées de la Première Guerre mondiale ?",
+        "type": "Fridtjof Nansen",
+        "flag":"https://upload.wikimedia.org/wikipedia/commons/9/9b/Fridtjof_Nansen_LOC_03377u-3.jpg"
+    },
+    {
+        "name":"Quel explorateur à dicté à son compagnon de cellule le livre ''Le Devisement du monde'' qui décrit son voyage en Asie ?",
+        "type": "Marco Polo",
+        "flag":"https://upload.wikimedia.org/wikipedia/commons/b/b0/Marco_Polo_Mosaic_from_Palazzo_Tursi.jpg"
+    },
+    {
+        "name":"Quel eplorateur est connu pour son exploration du Grand Canyon ?",
+        "type": "John Wesley Powell",
+        "flag":"https://upload.wikimedia.org/wikipedia/commons/a/ad/John_Wesley_Powell_USGS.jpg"
+    },
+    {
+        "name": "Quel explorateur européen à découvert la route des Indes ?",
+        "type":"Vasco de Gama",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Vasco_da_Gama_-_1838.png"
+    },
+    {
+        "name": "Quel est le nom du marin ayant été abandonné seul sur une île deserte et dont l'histoire inspira Daniel Defoe pour Robinson Crusoé ?",
+        "type": "Alexander Selkirk",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Alexander_Selkirk.JPG"
+    },
+    {
+        "name": "Quel explorateur commendat la première expédition non européenne en Antartique ? ",
+        "type" : "Shirase Nobu",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Alexander_Selkirk.JPG"
+    },
+    {
+        "name": "Quel explorateur effectua des milliers de kilomètres à pied et dans un canneaux de sauvetage pour aller chercher de l'aide suite à la capture de son navire par les glaces de l'antartique ?",
+        "type" : "Ernest Shackleton",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Shack-endurance.jpg"
+    },
+    {
+
+        "name": "Quel explorateur à découvert le lac Victoria ?",
+        "type" : "John Hanning Speke",
+        "flag" : "https://upload.wikimedia.org/wikipedia/commons/8/8f/John_Hanning_Speke_%281827-64%29_RMG_F8616_%28cropped%29.jpg" 
+
+    }
 ]
